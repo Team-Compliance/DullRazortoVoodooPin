@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Yet Another Voodoo Pin over Dull Razor</name>
+    <directory>yet another voodoo pin over dull razor</directory>
+    <id>2586699693</id>
+    <description>Replaces Dull Razor with Antibirth's Voodoo Pin! The item still works the same, its just the name and sprite that have changed.
+
+Why should you use this over other Voodoo Pin mods?
+- Actually changed death icon and achievement sprite!
+- Full EID and Encyclopedia support!
+- Overall a less buggy implementation!</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Active Items"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>
