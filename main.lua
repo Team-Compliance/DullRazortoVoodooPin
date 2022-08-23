@@ -1,4 +1,4 @@
-YAVPODR = RegisterMod("Yet Another Voodoo Pin over Dull Razor", 1)
+YAVPODR = RegisterMod("Dull Razor to Voodoo Pin", 1)
 local mod = YAVPODR
 
 local items = {
