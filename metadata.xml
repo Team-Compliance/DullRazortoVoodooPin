@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
     <name>Dull Razor to Voodoo Pin</name>
-    <directory>Dull Razor to Voodoo Pin</directory>
-    <id>2586699693</id>
-    <description>Replaces Dull Razor with Antibirth's Voodoo Pin! The item still works the same, only the name and sprite have been reverted.
-
-Why should you use this over other Voodoo Pin mods?
-- Actually changed death icon and achievement sprite!
-- Full EID and Encyclopedia support!
-- Overall a less buggy implementation!</description>
+    <directory>dull razor to voodoo pin</directory>
+    <id>2853478372</id>
+    <description></description>
     <version>1.1</version>
-    <visibility>Public</visibility>
+    <visibility>Friends Only</visibility>
     <tag id="Lua"/>
-    <tag id="Active Items"/>
     <tag id="Tweaks"/>
+    <tag id="Removals"/>
     <tag id="Graphics"/>
 </metadata>
